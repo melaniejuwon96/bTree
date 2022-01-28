@@ -1,11 +1,11 @@
 # BTree 구현소스
-## 1. 실행환경
+## 1. 실행환경 💻
 + OS: macOS (version: 10.15.7)
 + IDE: PyCharm CE (version: 2019.1.1)
 + Language: python (version: 3.8.8)
 
 
-## 2. 실행설명
+## 2. 실행설명 👾
 **1. INSERTION**
 + 프로그램 실행 후 어떤 연산을 수행할지 입력
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/34060492/151500970-4cf318f5-8ebb-4292-ac50-4dc2e1a5650f.png">
